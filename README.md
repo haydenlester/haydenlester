@@ -1,10 +1,10 @@
 ### Who Am I?
 I'm Hayden, I'm a quality-oriented developer based out of the DFW metroplex.
 
-- 🔭 I’m currently working on GroundSway, a productivity app catered towards people with ADHD.
-- 🌱 I’m currently learning software architecture, and soft-skills to enhance my decision-making and ideation value.
-- 👯 I’m looking to collaborate on backend projects, especially involving Phoenix/Elixir and graph databases.
-- 💬 Ask me about my commitment to accessibility in software.
+- 🔭 I’m currently working on GroundSway, a productivity app catered towards people with ADHD
+- 🌱 I’m currently learning software architecture, and soft-skills to enhance my decision-making and ideation value
+- 👯 I’m looking to collaborate on backend projects, especially ones with a chance to learn more about cloud engineering
+- 💬 Ask me about my commitment to accessibility in software
 - 😄 Pronouns: He/Him
 
 ### My grand goals
