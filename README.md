@@ -7,6 +7,10 @@ I'm Hayden, I'm a quality-oriented developer based out of the DFW metroplex.
 - 💬 Ask me about my commitment to accessibility in software.
 - 😄 Pronouns: He/Him
 
+### My grand goals
+- I want to be "the guy" one day. As a result, (Almost, see below) all of my decisions are made around the growth that can be provided to me. That's going to take a lot of hard work and dedication, but it is something I'm willing to work hard for.
+- Above all else, I want to be remembered as a fantastic father. I could romantisize it, but my commitment to my daughter comes before any obligation or ambition I may have.
+
 ### You should know:
 1. It is [proven](https://psycnet.apa.org/record/1998-04530-003) that intelligence-based praise can undermine future performance in children. Believing yourself to be smart, talented, or intelligent, is ultimately counterproductive to your goals in learning. It has been shown repeatedly that re-framing learning with a "growth mindset", and realizing that you've gotten where you are due to effort alone, helps you avoid staying in your comfort zone and refusing to challenge yourself with hard problems or big goals.
 
