@@ -8,7 +8,7 @@ I'm Hayden, I'm a quality-oriented developer based out of the DFW metroplex.
 - 😄 Pronouns: He/Him
 
 ### My grand goals
-- I want to be "the guy" one day. As a result, (Almost, see below) all of my decisions are made around the growth that can be provided to me. That's going to take a lot of hard work and dedication, but it is something I'm willing to work hard for.
+- I want to learn new things. I enjoy learning, and personal growth. As a result, (Almost, see below) all of my decisions are made around the growth that can be provided to me.
 - Above all else, I want to be remembered as a fantastic father. I could romanticize it, but my commitment to my daughter comes before any obligation or ambition I may have.
 
 ### Stuff I find interesting:
