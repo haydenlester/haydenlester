@@ -7,9 +7,10 @@ I'm Hayden, I'm a quality-oriented developer based out of the DFW metroplex.
 - 💬 Ask me about my commitment to accessibility in software
 - 😄 Pronouns: He/Him
 
-### My grand goals
-- I want to learn new things. I enjoy learning, and personal growth. As a result, (Almost, see below) all of my decisions are made around the growth that can be provided to me.
-- Above all else, I want to be remembered as a fantastic father. I could romanticize it, but my commitment to my daughter comes before any obligation or ambition I may have.
+### About me
+I've been programming on and off since I was ~12 years old, so over 10 years now including the four I spent at university. I've always liked being a creator, but haven't always had the mental tools to stay consistent or finish projects. Over the last couple of years, I have focused intently on developing those mental tools, leading to a passion for software accessibility and my most recent project, GroundSway.
+
+I'm a young father of a young daughter, and an out-of-the-box thinker. I like to use what I've learned to generate new inferences and hypothesis about how I can make existing systems better, more dynamic, more integrated, more accessible. I enjoy having the know-how to break the "general rule" and do better. I enjoy innovating, ideating, and testing my hypothesis on the systems I create.
 
 ### Stuff I find interesting:
 1. It is [proven](https://psycnet.apa.org/record/1998-04530-003) that intelligence-based praise can undermine future performance in children. Believing yourself to be smart, talented, or intelligent, is ultimately counterproductive to your goals in learning. It has been shown repeatedly that re-framing learning with a "growth mindset", and realizing that you've gotten where you are due to effort alone, helps you avoid staying in your comfort zone and refusing to challenge yourself with hard problems or big goals. You aren't smart, you're just a hard worker, an ambitious person, passionate about what you do. Take pride in it.
