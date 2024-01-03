@@ -12,4 +12,4 @@ I've been programming on and off since I was ~12 years old, so over 10 years now
 
 I'm a young father of a young daughter, and an out-of-the-box thinker. I like to use what I've learned to generate new inferences and hypothesize about how I can make existing systems better, more modular, more performant, and more accessible. I enjoy having the know-how to break the "general rule" and do better than it. I enjoy innovating, ideating, and tinkering with new code-fueled ideas.
 
-I very strongly enjoy learning about new frameworks, technologies, concepts, and the like. "Mixing things up" so to speak. I'm not one to hide my incompetence in a new subject. I find that often occurs at the expense of furthering my learning and growth, so it would contradict my primary goal.
+I enjoy learning about new frameworks, technologies, concepts, and the like. "Mixing things up", so to speak. I'm not one to hide my incompetence in a new subject. I find that often occurs at the expense of furthering my learning and growth, and as such would contradict my primary goal.
